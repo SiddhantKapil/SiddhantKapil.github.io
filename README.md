@@ -25,7 +25,7 @@ Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pv
 ##### Image Processing
 
 1) Deslant Cursive Handwritten Text in Images: 
-__Problem:__ One of the challenges in performing OCR on handwritten text is the slantness of the text. It should be corrected otherwise it may affect the text detection or word cropping in some cases. 
-__Solution:__ To solve this I devloped an Image Processing Algorithm completely from scratch. This algorithm first calculate the slantness of the text  the translate the image to correct the slantness.
+__Problem:__ One of the challenges in performing OCR on handwritten text is the slanting text. It should be corrected otherwise it may affect the text detection or word cropping in some cases. 
+__Solution:__ To solve this I devloped an Image Processing Algorithm completely from scratch. This algorithm first calculate the slantinf factor of the text and then the translate the image using that slanting factor to deslant it.
 __Result:__ On my custom dataset this algorithm increased the word slicing accuracy by 9% and overall detection accuracy by 6%.
 
