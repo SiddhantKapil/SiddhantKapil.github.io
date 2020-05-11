@@ -24,7 +24,7 @@ Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pv
 
 ![](result_deslant.gif)
 
-__1) Deslant Cursive Handwritten Text in Images:__
+  __1) Deslant Cursive Handwritten Text in Images:__
 
    * __Problem:__ One of the challenges in performing OCR on handwritten text is the slanting text. It should be corrected otherwise it may affect the text detection or word cropping in some cases. 
    * __Solution:__ To solve this I devloped an Image Processing Algorithm completely from scratch. This algorithm first calculate the slantinf factor of the text and then the translate the image using that slanting factor to deslant it.
@@ -34,7 +34,7 @@ __1) Deslant Cursive Handwritten Text in Images:__
    
  ![](result_keypoints.gif)
  
- __2) Detect Keypoints in Images:__
+  __2) Detect Keypoints in Images:__
 
    * __Problem:__ Facial keypoints detection find its use in apps like Snapchat, Instagram filter, What's your age or Gender.
    * __Solution:__ To do it I made a short and sweet neural netowrk using  Keras to detect important Facial Features. I also used Data Augmentation techniques like flipping the image to increase data samples.
