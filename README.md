@@ -43,11 +43,13 @@ __1) Deslant Cursive Handwritten Text in Images:__
    
 ###### Some other interesting Projects
 
-
-   __3) Implemented RANSAC for Line Detection:__
+  ![](result_ransac.gif)
+  
+   __1) Implemented RANSAC for Line Detection:__
    * __Overview:__ Implemented RANSAC from scratch using C without OpenCV.
    * __Result:__ Shown in the GIF above. Highlighted top 5 prominent lines in blue color.
    * __Skills:__ C, Algortihms, Matrix Manipulation, Edge Detection, RANSAC.
+   * __Code:__ https://github.com/SiddhantKapil/RANSAC_In_C
    
    
    
