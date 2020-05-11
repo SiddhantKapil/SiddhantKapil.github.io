@@ -18,35 +18,30 @@ Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pv
 
 ### PortFolio
 
-##### Data Science
-
-##### Machine Learning
-
-##### Image Processing
+##### AI & Algorithms
 
 ![](result_deslant.gif)
 1) Deslant Cursive Handwritten Text in Images: 
 
-   __Problem:__ One of the challenges in performing OCR on handwritten text is the slanting text. It should be corrected otherwise it may affect the text detection or word cropping in some cases. 
+   * __Problem:__ One of the challenges in performing OCR on handwritten text is the slanting text. It should be corrected otherwise it may affect the text detection or word cropping in some cases. 
 
-   __Solution:__ To solve this I devloped an Image Processing Algorithm completely from scratch. This algorithm first calculate the slantinf factor of the text and then the translate the image using that slanting factor to deslant it.
+   * __Solution:__ To solve this I devloped an Image Processing Algorithm completely from scratch. This algorithm first calculate the slantinf factor of the text and then the translate the image using that slanting factor to deslant it.
 
-   __Result:__ On my custom dataset this algorithm increased the word slicing accuracy by 9% and overall detection accuracy by 6%.
+   * __Result:__ On my custom dataset this algorithm increased the word slicing accuracy by 9% and overall detection accuracy by 6%.
    
-   __Skills Used:__ Algorithms, Python, OpenCV, Matrix Manipulation, Image Processing.
+   * __Skills Used:__ Algorithms, Python, OpenCV, Matrix Manipulation, Image Processing.
    
-   __Code:__ https://github.com/SiddhantKapil/deslant_cursive_images
+   * __Code:__ https://github.com/SiddhantKapil/deslant_cursive_images
    
+ ![](result_keypoints.gif)
  2) Detect Keypoints in Images: 
 
-   __Problem:__ One of the challenges in performing OCR on handwritten text is the slanting text. It should be corrected otherwise it may affect the text detection or word cropping in some cases. 
+   * __Problem:__ Facial keypoints detection find its use in apps like Snapchat, Instagram filter, What's your age or Gender.
 
-   __Solution:__ To solve this I devloped an Image Processing Algorithm completely from scratch. This algorithm first calculate the slantinf factor of the text and then the translate the image using that slanting factor to deslant it.
-
-   __Result:__ On my custom dataset this algorithm increased the word slicing accuracy by 9% and overall detection accuracy by 6%.
+   * __Solution:__ To do it I made a short and sweet neural netowrk using  Keras to detect important Facial Features. I also used Data Augmentation techniques like flipping the image to increase data samples.
    
-   __Skills Used:__ Algorithms, Python, OpenCV, Matrix Manipulation, Image Processing.
+   * __Skills Used:__ Python, Keras, Neural Networks Image Processing.
    
-   __Code:__ https://github.com/SiddhantKapil/deslant_cursive_images
+   __Code:__ https://github.com/SiddhantKapil/Facial-Keypoints-Detection
    
    
