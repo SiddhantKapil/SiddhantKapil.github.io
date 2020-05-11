@@ -20,7 +20,7 @@ Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pv
 
 ### AI & Algorithms
 
-###### Industrial Projects
+#### a) Industrial Projects
 
 ![](result_deslant.gif)
 
@@ -41,7 +41,7 @@ __1) Deslant Cursive Handwritten Text in Images:__
    * __Skills Used:__ Python, Keras, Neural Networks Image Processing.
    * __Code:__ https://github.com/SiddhantKapil/Facial-Keypoints-Detection
    
-### Some other interesting Projects
+#### b) Some other interesting Projects
 
   ![](result_ransac.gif)
   
