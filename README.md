@@ -62,10 +62,10 @@ Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pv
      
 ### Software Development
 
-__1) Simulating Distributed System Environment using PDA processors__
+   __1) Simulating Distributed System Environment using PDA processors__
 
 * __Overview:__ To showcase my knowledge about dstributed OS,I made a dummy project in which I am using PDAs as ditributed servers and applying various techniques like caching, cookies, replica groups, CRUD operations on PDAs and replica groups.
-* __Skills:__ Go, RESTful,  
+* __Skills:__ Go, RESTful.
 * __Code:__ https://github.com/SiddhantKapil/RESTfulExample
    
    
