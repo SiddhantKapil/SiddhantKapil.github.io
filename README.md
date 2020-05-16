@@ -52,6 +52,7 @@ Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pv
    * __Code:__ https://github.com/SiddhantKapil/RANSAC_In_C
    
    ![](result_featureMatching.gif)
+   
    __2) Implemented RANSAC and ORB for Feature Matching:__
    * __Overview:__ Implemented RANSAC and ORB from scratch using C++. Used OpenCV only for reading inputs and saving outputs.
    * __Result:__  Dragging the mouse over the video will crop a part. When the color of the bounding box is red that means the user s still dragging the mouse. Once mouse dragging is complete, the bounding box color turns green and the image is cropped. In the upcoming frames, the cropped image is tracked and represented by green bounding box.
@@ -59,6 +60,12 @@ Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pv
    * __Code:__ https://github.com/SiddhantKapil/FeatureMatchingFromScratch
    
      
-   
+### Software Development
+
+__1) Simulating Distributed System Environment using PDA processors__
+
+* __Overview:__ To showcase my knowledge about dstributed OS,I made a dummy project in which I am using PDAs as ditributed servers and applying various techniques like caching, cookies, replica groups, CRUD operations on PDAs and replica groups.
+* __Skills:__ Go, RESTful,  
+* __Code:__ https://github.com/SiddhantKapil/RESTfulExample
    
    
