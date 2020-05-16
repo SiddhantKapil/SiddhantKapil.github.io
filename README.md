@@ -51,9 +51,10 @@ Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pv
    * __Skills:__ C, Algortihms, Matrix Manipulation, Edge Detection, RANSAC, Image Processing.
    * __Code:__ https://github.com/SiddhantKapil/RANSAC_In_C
    
+   ![](output.avi)
    __2) Implemented RANSAC and ORB for Feature Matching:__
    * __Overview:__ Implemented RANSAC and ORB from scratch using C++. Used OpenCV only for reading inputs and saving outputs.
-   * __Result:__ Please refer to the output.avi file in the code repository
+   * __Result:__  Dragging the mouse over the video will crop a part. When the color of the bounding box is red that means the user s still dragging the mouse. Once mouse dragging is complete, the bounding box color turns green and the image is cropped. In the upcoming frames, the cropped image is tracked and represented by green bounding box.
    * __Skills:__ C, Algortihms, Matrix Manipulation, Edge Detection, RANSAC, Image Processing.
    * __Code:__ https://github.com/SiddhantKapil/FeatureMatchingFromScratch
    
