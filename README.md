@@ -63,7 +63,7 @@ Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pv
 
    __1) EDA on Open Baltimore Datasets__
 * __Overview:__ Performed EDA on two datasets. 1) Analyzing trends of CityTax w.r.t. Area, Lot Size, Block. 2) Analyze 911 calls frequency and severity w.r.t time of the day.
-* __Code:__ 1) https://github.com/SiddhantKapil/EDAonOpenBaltimore/blob/master/EDA%20on%20Baltimore%20Residences.ipynb 2) https://github.com/SiddhantKapil/EDAonOpenBaltimore/blob/master/EDA%20and%20PredictiveModelling%20for%20911%20calls.ipynb
+* __Code:__  https://github.com/SiddhantKapil/EDAonOpenBaltimore/blob/master/EDA%20on%20Baltimore%20Residences.ipynb,  https://github.com/SiddhantKapil/EDAonOpenBaltimore/blob/master/EDA%20and%20PredictiveModelling%20for%20911%20calls.ipynb
 ### Software Development
 
    __1) Simulating Distributed System Environment using PDA processors__
