@@ -4,7 +4,7 @@ Hi there, thanks for stopping by. I am Siddhant Kapil, a curious Software Develo
 ### A Little More About Me
 
 I am a first-year graduate student at UMBC pursuing MS in Computer Science. My estimated graduation date is May 2021. As of now, I am holding a GPA of 4. My primary areas of interest are Algorithms and Machine Learning. At UMBC, I am working as a Research Assistant for Prof. David Chapman on design a novel deep learning algorithm for generating images similar to the input images. 
-Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pvt. Ltd. where I contributed in designing various Software Engineering and Machine Learning projects. My day-to-day at Nagarro was to work closely with ML experts and design data processing pipelines for large-scale Machine Learning models.  
+Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pvt. Ltd. where I contributed in designing various Software Engineering and Machine Learning projects. My day-to-day at Nagarro was to work closely with ML experts and design data processing pipelines for large-scale Machine Learning systems.  
 
 
 ### Expertise
@@ -32,9 +32,17 @@ Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pv
    * __Skills Used:__ Algorithms, Python, OpenCV, Matrix Manipulation, Image Processing.
    * __Code:__ https://github.com/SiddhantKapil/deslant_cursive_images
    
+  ![](result_sigatoka.gif)
+  
+  __2) Sigatoka Detection:__
+   * __Problem:__ Sigatoka is a disease found in banana leaves. It starts with a few brown spots and eventually results in decaying of the leaves.
+   * __Solution:__ I used techniques like Automatic Cropping, and Perspective Transformation to crop banana leaves. Then I used Color Segmentation, Contours Extraction, and Color Correction using Gold Standards to extract out potential sick spots. Then I used Spatial Clustering, Denoising Algorithms and Contours Manipulation to remove false positives.  
+   * __Skills Used:__ Algorithms, Python, OpenCV, Matrix Manipulation, Image Processing.
+   * __Code:__ https://github.com/SiddhantKapil/SigatokaDetection
+  
  ![](result_keypoints.gif)
  
-  __2) Detect Keypoints in Images:__
+  __3) Detect Keypoints in Images:__
 
    * __Problem:__ Facial keypoints detection find its use in apps like Snapchat, Instagram filter, What's your age or Gender.
    * __Solution:__ To do it I made a short and sweet neural netowrk using  Keras to detect important Facial Features. I also used Data Augmentation techniques like flipping the image to increase data samples.
