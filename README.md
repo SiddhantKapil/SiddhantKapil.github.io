@@ -32,7 +32,7 @@ Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pv
    * __Skills Used:__ Algorithms, Python, OpenCV, Matrix Manipulation, Image Processing.
    * __Code:__ https://github.com/SiddhantKapil/deslant_cursive_images
    
-  ![](result_sigatoka.gif)
+  ![](results_sigatoka.gif)
   
   __2) Sigatoka Detection:__
    * __Problem:__ Sigatoka is a disease found in banana leaves. It starts with a few brown spots and eventually results in decaying of the leaves.
