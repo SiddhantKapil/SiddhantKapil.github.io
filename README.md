@@ -7,7 +7,7 @@ I am a first-year graduate student at UMBC pursuing MS in Computer Science. My e
 Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pvt. Ltd. where I contributed in designing various Software Engineering and Machine Learning projects. My day-to-day at Nagarro was to work closely with ML experts and design data processing pipelines for large-scale Machine Learning systems.  
 
 
-### Expertise
+### Skills
 * ___Programming Languages:___ Python, C#, C/C++, Java, JavaScript, MATLAB, GoLang.
 * __Technologies:__ REST, Celery, Tensorflow.js, pySpark, NumPy, SciPy, Selenium, GIT, jQuery, Docker.
 * __Tools and Frameworks:__ AGILE, Django, Flask, Wrangler(Cloudflare).
