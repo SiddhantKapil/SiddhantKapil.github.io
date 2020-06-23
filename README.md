@@ -30,7 +30,7 @@ Before joining UMBC, I used to work as a Senior Associate at Nagarro Software Pv
    * __Solution:__ To solve this I devloped an Image Processing Algorithm completely from scratch. This algorithm first calculate the slantinf factor of the text and then the translate the image using that slanting factor to deslant it.
    * __Result:__ On my custom dataset this algorithm increased the word slicing accuracy by 9% and overall detection accuracy by 6%.
    * __Skills Used:__ Algorithms, Python, OpenCV, Matrix Manipulation, Image Processing.
-   * __Code:__ https://github.com/SiddhantKapil/deslant_cursive_images
+   * __Code:__ https://github.com/SiddhantKapil/stantness_correction
    
   ![](results_sigatoka.gif)
   
